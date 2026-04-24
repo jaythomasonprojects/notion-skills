@@ -1,10 +1,10 @@
 {
   "name": "notion-skills",
-  "description": "Reusable Notion skills for GitHub Copilot CLI. Pull/push pages, manage tasks, file bugs — from any agent.",
-  "version": "1.2.0",
+  "description": "Reusable Notion skills for GitHub Copilot CLI. Pull/push pages, manage tasks, and file bugs from any agent.",
+  "version": "1.2.1",
   "author": {
-    "name": "Jay",
-    "email": "jay.thomason@outlook.com"
+    "name": "Jay Thomason",
+    "email": "jaythomason.projects@outlook.com"
   },
   "license": "MIT",
   "keywords": ["notion", "skills", "tasks", "project-management"],
